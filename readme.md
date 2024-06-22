@@ -23,7 +23,9 @@ I am requiring you to use a certain variable that holds all of your users' data,
 
       Your variable is a dictionary where the keys are the user's name and the value is a list of tuples, each movie is a tuple.
 
+    =================================================================
 
+    # IF YOU'RE ON M5 do the same as M4 except I expect AT LEAST 5 functions to be written, input helpers\validation functions don't count ;)
 
 # EXAMPLE OUTPUT:
 
